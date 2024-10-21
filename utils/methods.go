@@ -16,7 +16,6 @@ import (
 	"path/filepath"
 	"regexp"
 
-	"strconv"
 	"strings"
 
 	"github.com/chromedp/cdproto/cdp"
